@@ -10,7 +10,7 @@ This repository offers a collection of resources designed to facilitate the appl
 
 - **Embedding Techniques**: Implementations and demonstrations of word and sentence embeddings.
 - **Classification Models**: Tools for text classification tasks.
-- **Sequence Modeling**: Resources for handling sequential data in NLP. Checkout the [jupyter notebook](https://github.com/EAndrade-Lotero/NN4NLP/notebooks/)
+- **Sequence Modeling**: Resources for handling sequential data in NLP. Checkout the [jupyter notebook](https://github.com/EAndrade-Lotero/NN4NLP/blob/main/notebooks/FNN_as_LMs.ipynb).
 
 The goal is to provide modular and reusable components that can be integrated into various NLP projects.
 
